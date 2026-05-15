@@ -23,7 +23,7 @@ Jakarta, Indonesia
 
 <p align="center">
   <a href="https://github.com/aisyahnasywa/jakarta-cafe-dashboard/tree/main">
-    <img src="./mockup-cafe-dashboard.png" width="60%" />
+    <img src="./mockup-jkt-cafe-dashboard.png" width="60%" />
   </a>
 </p>
 
