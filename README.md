@@ -1,6 +1,6 @@
 # Jakarta Cafe Distribution Map
 
-🌐 **Live Dashboard:** <a href="https://jakarta-cafe-dashboard.vercel.app" target="_blank">jakarta-cafe-dashboard.vercel.app</a>
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-jakarta--cafe--dashboard.vercel.app-brightgreen)](https://jakarta-cafe-dashboard.vercel.app)
 
 ## Overview
 Jaksel (South Jakarta) is often labelled the city's trendiest district, but do the coordinates 
